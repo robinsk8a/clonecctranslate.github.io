@@ -23,3 +23,5 @@ List of links:
 * Link to page 13 ==> https://robinsk8a.github.io/clonecctranslate.github.io/level/levelone_13.html
 * Link to page 14 ==> https://robinsk8a.github.io/clonecctranslate.github.io/level/levelone_14.html
 * Link to page 15 ==> https://robinsk8a.github.io/clonecctranslate.github.io/level/levelone_15.html
+* Link to page 16 ==> https://robinsk8a.github.io/clonecctranslate.github.io/level/levelone_16.html
+* Link to page 17 ==> https://robinsk8a.github.io/clonecctranslate.github.io/level/levelone_17.html
